@@ -1,0 +1,16 @@
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\SpNonManageCodeApp\bin\Debug\net8.0-windows\SpNonManageCodeApp.exe
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\SpNonManageCodeApp\bin\Debug\net8.0-windows\SpNonManageCodeApp.deps.json
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\SpNonManageCodeApp\bin\Debug\net8.0-windows\SpNonManageCodeApp.runtimeconfig.json
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\SpNonManageCodeApp\bin\Debug\net8.0-windows\SpNonManageCodeApp.dll
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\SpNonManageCodeApp\bin\Debug\net8.0-windows\SpNonManageCodeApp.pdb
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\SpNonManageCodeApp\obj\Debug\net8.0-windows\SpNonManageCodeApp.MainForm.resources
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\SpNonManageCodeApp\obj\Debug\net8.0-windows\SpNonManageCodeApp.csproj.GenerateResource.cache
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\SpNonManageCodeApp\obj\Debug\net8.0-windows\SpNonManageCodeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\SpNonManageCodeApp\obj\Debug\net8.0-windows\SpNonManageCodeApp.AssemblyInfoInputs.cache
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\SpNonManageCodeApp\obj\Debug\net8.0-windows\SpNonManageCodeApp.AssemblyInfo.cs
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\SpNonManageCodeApp\obj\Debug\net8.0-windows\SpNonManageCodeApp.csproj.CoreCompileInputs.cache
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\SpNonManageCodeApp\obj\Debug\net8.0-windows\SpNonManageCodeApp.dll
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\SpNonManageCodeApp\obj\Debug\net8.0-windows\refint\SpNonManageCodeApp.dll
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\SpNonManageCodeApp\obj\Debug\net8.0-windows\SpNonManageCodeApp.pdb
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\SpNonManageCodeApp\obj\Debug\net8.0-windows\SpNonManageCodeApp.genruntimeconfig.cache
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\SpNonManageCodeApp\obj\Debug\net8.0-windows\ref\SpNonManageCodeApp.dll

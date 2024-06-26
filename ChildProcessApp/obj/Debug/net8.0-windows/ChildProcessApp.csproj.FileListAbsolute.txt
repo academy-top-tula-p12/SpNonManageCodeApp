@@ -1,0 +1,16 @@
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\ChildProcessApp\bin\Debug\net8.0-windows\ChildProcessApp.exe
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\ChildProcessApp\bin\Debug\net8.0-windows\ChildProcessApp.deps.json
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\ChildProcessApp\bin\Debug\net8.0-windows\ChildProcessApp.runtimeconfig.json
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\ChildProcessApp\bin\Debug\net8.0-windows\ChildProcessApp.dll
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\ChildProcessApp\bin\Debug\net8.0-windows\ChildProcessApp.pdb
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\ChildProcessApp\obj\Debug\net8.0-windows\ChildProcessApp.Form1.resources
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\ChildProcessApp\obj\Debug\net8.0-windows\ChildProcessApp.csproj.GenerateResource.cache
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\ChildProcessApp\obj\Debug\net8.0-windows\ChildProcessApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\ChildProcessApp\obj\Debug\net8.0-windows\ChildProcessApp.AssemblyInfoInputs.cache
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\ChildProcessApp\obj\Debug\net8.0-windows\ChildProcessApp.AssemblyInfo.cs
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\ChildProcessApp\obj\Debug\net8.0-windows\ChildProcessApp.csproj.CoreCompileInputs.cache
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\ChildProcessApp\obj\Debug\net8.0-windows\ChildProcessApp.dll
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\ChildProcessApp\obj\Debug\net8.0-windows\refint\ChildProcessApp.dll
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\ChildProcessApp\obj\Debug\net8.0-windows\ChildProcessApp.pdb
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\ChildProcessApp\obj\Debug\net8.0-windows\ChildProcessApp.genruntimeconfig.cache
+D:\RPO\MaximEfimov\~P12\SP\SpNonManageCodeApp\ChildProcessApp\obj\Debug\net8.0-windows\ref\ChildProcessApp.dll
